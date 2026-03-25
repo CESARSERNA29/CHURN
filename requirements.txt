@@ -1,0 +1,10 @@
+streamlit>=1.30
+pandas>=1.5
+numpy>=1.23
+plotly>=5.0
+openpyxl>=3.1
+scikit-learn>=1.2
+streamlit-option-menu>=0.3
+streamlit-extras>=0.3
+numerize>=0.12
+Pillow>=9.0
