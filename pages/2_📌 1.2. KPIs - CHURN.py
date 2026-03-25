@@ -329,7 +329,7 @@ try:
     # Agregando el Titulo (Elegante)
     fig.update_layout(
         title={
-            "text": "Tasa de Churn por Ciudad y Departamento",
+            "text": "Tasa de Churn por Ciudad y Canal",
             "y": 0.95, 
             "x": 0.5, 
             "xanchor": "center", 
