@@ -92,8 +92,8 @@ st.markdown("##")
 
 @st.cache_data
 def load_data():
-#        return pd.read_excel("data/rfm_data.xlsx")
-        return pd.read_excel("C:/Users/cesar/OneDrive/Escritorio/UNICEF/Dashboard_CHURN/data/rfm_data.xlsx")
+         return pd.read_excel("data/rfm_data.xlsx")
+#        return pd.read_excel("C:/Users/cesar/OneDrive/Escritorio/UNICEF/Dashboard_CHURN/data/rfm_data.xlsx")
 df = load_data()
 
 
